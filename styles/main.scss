@@ -164,4 +164,77 @@ header{
 .contents{
   padding-right:100px;
   padding-left:100px;
+  background-color:silver;
+  @include outer-container(1280px);
+}
+
+.main-container{
+  @include span-columns(12);
+}
+
+.menu-items{
+  @include span-columns(8);
+}
+
+.heroes{
+  padding:10px;
+  border:1px solid gray;
+  list-style:none;
+  font-size:20px;
+  margin-top:20px;
+  color:gray;
+}
+
+.order-bar{
+  @include span-columns(4);
+}
+
+h5{
+  font-size:16px;
+  color:gray;
+  padding:0px;
+}
+
+.your-order{
+  text-align:center;
+}
+
+.company-name{
+  text-align:center;
+}
+
+.item-price{
+  text-align:right;
+}
+
+.delivery-pickup{
+  text-align:center;
+}
+
+.delivery-icon-box{
+  display:inline-block;
+  padding:5px;
+}
+
+.pickup-icon-box{
+  display:inline-block;
+  padding:5px;
+}
+
+footer{
+  padding-left:100px;
+  padding-right:100px;
+}
+
+.home-footer,
+.careers-footer,
+.support-footer,
+.blog-footer,
+.com-footer,
+.privacy-footer,
+.terms-footer{
+  padding-left:10px;
+  padding-right:10px;
+  display:inline-block;
+  font-size:12px;
 }
