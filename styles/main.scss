@@ -19,3 +19,144 @@ body {
   background-color: $base-background-color;
   color: $base-font-color;
 }
+
+body{
+  width:1280px;
+  height:auto;
+
+}
+
+header{
+  padding-left:100px;
+  padding-right:100px;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+.left-header{
+  display:inline-block;
+}
+
+.vigilante{
+  display:inline-block;
+  padding-right:15px;
+}
+
+.vigilante-header{
+  display:inline-block;
+  font-size:28px;
+}
+
+.right-left-header{
+  display:inline-block;
+}
+
+.riverside{
+  display:block;
+  font-weight:bold;
+}
+
+.hdt{
+  display:block;
+}
+
+.right-header{
+  display:inline-block;
+  float:right;
+}
+
+.home{
+  display:inline-block;
+  padding:10px;
+}
+
+.support{
+  display:inline-block;
+  padding:10px;
+}
+
+.sign-in{
+  display:inline-block;
+  padding:10px;
+  border:1px solid gray;
+}
+
+.title{
+  background-image: url("./images/hero-landscape.jpg");
+}
+
+.title-contents{
+  padding-left:100px;
+  padding-right:100px;
+}
+
+.go-back{
+  display:block;
+  padding-bottom:40px;
+}
+
+.main-title-contents{
+  display:block;
+}
+
+.large-logo{
+  display:inline-block;
+  background-color:silver;
+  border-radius:50%;
+}
+
+.restaurant-description{
+  display:inline-block;
+  list-style:none;
+  padding-bottom:40px;
+}
+
+.restaurant-name{
+  font-size:24px;
+  padding-bottom:7px;
+}
+
+.restaurant-address{
+  padding-bottom:3px;
+}
+
+.stars{
+  display:inline-block;
+}
+
+.yelp{
+  display:inline-block;
+}
+
+.store-hours,
+.delivery-time,
+.delivery-minimum,
+.delivery-cost{
+  display:inline-block;
+}
+
+.menu-toggles{
+  display:block;
+}
+
+.menu-toggle{
+  display:inline-block;
+  padding:10px;
+  border:1px solid gray;
+}
+
+.info-toggle{
+  display:inline-block;
+  padding:10px;
+  border:1px solid gray;
+}
+
+.reviews{
+  display:inline-block;
+  padding:10px;
+  border:1px solid gray;
+}
+
+.search-menu{
+  padding-left:100px;
+}
