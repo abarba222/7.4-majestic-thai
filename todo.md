@@ -8,8 +8,8 @@
 ### Menu
 [x] Fetch and 'console.log' the static JSON for the menu items
 [x] Render a template for each menu item, not according to category
-[ ] Define a FoodListView constructor
-[ ] Make a view responsible instead of just a template for the collection
+[x] Define a FoodListView constructor
+[x] Make a view responsible instead of just a template for the collection
 [ ] Define a FoodItemView constructor
 [ ] Use the 'renderChildren' method to render a child view for each food item
 [ ] 'console.log' the food model when I click on its price button

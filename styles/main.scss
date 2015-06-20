@@ -29,8 +29,8 @@ body{
 header{
   padding-left:100px;
   padding-right:100px;
-  padding-top:30px;
-  padding-bottom:30px;
+  padding-top:15px;
+  padding-bottom:15px;
 }
 
 .left-header{
@@ -63,36 +63,48 @@ header{
 .right-header{
   display:inline-block;
   float:right;
+  a {
+    color:black;
+    text-decoration:none;
+  }
 }
 
-.home{
-  display:inline-block;
-  padding:10px;
-}
-
+.home,
 .support{
   display:inline-block;
-  padding:10px;
+  margin-right:10px;
+  margin-left:10px;
 }
 
 .sign-in{
   display:inline-block;
   padding:10px;
+  margin-left:10px;
   border:1px solid gray;
+
+
 }
 
 .title{
-  background-image: url("./images/hero-landscape.jpg");
+  background-image: url("../../images/hero-landscape.jpg");
+  background-size: cover;
+  background-position: center center;
 }
 
 .title-contents{
   padding-left:100px;
   padding-right:100px;
+  background-color:rgba(128, 128, 128, .3);
 }
 
 .go-back{
   display:block;
   padding-bottom:40px;
+  padding-top:10px;
+  font-weight:bold;
+  a{
+    color:white;
+  }
 }
 
 .main-title-contents{
@@ -101,7 +113,7 @@ header{
 
 .large-logo{
   display:inline-block;
-  background-color:silver;
+  background-color:green;
   border-radius:50%;
 }
 
@@ -109,6 +121,7 @@ header{
   display:inline-block;
   list-style:none;
   padding-bottom:40px;
+  color:white;
 }
 
 .restaurant-name{
@@ -136,35 +149,51 @@ header{
 }
 
 .menu-toggles{
-  display:block;
+  display: inline-block;
+  border-top: 1px solid gray;
+  background-color:white;
+  border-bottom:1px solid black;
+
+  div {
+    border-right: 1px solid gray;
+  }
 }
 
 .menu-toggle{
   display:inline-block;
   padding:10px;
-  border:1px solid gray;
+  border-left: 1px solid gray;
+  /* border:1px solid gray; */
 }
 
 .info-toggle{
   display:inline-block;
   padding:10px;
-  border:1px solid gray;
+  /* border:1px solid gray; */
 }
 
 .reviews{
   display:inline-block;
   padding:10px;
-  border:1px solid gray;
+  /* border:1px solid gray; */
 }
 
 .search-menu{
   padding-left:100px;
+  height:60px;
+  background-color: purple;
+}
+
+.search-menu-bar{
+  border-bottom:2px solid green;
+  height:50px;
+  width:261px;
 }
 
 .contents{
   padding-right:100px;
   padding-left:100px;
-  background-color:silver;
+  background-color:black;
   @include outer-container(1280px);
 }
 
@@ -174,11 +203,12 @@ header{
 
 .menu-items{
   @include span-columns(8);
+  padding:0px;
 }
 
 .heroes{
   padding:10px;
-  border:1px solid gray;
+  border:1px solid green;
   list-style:none;
   font-size:20px;
   margin-top:20px;
