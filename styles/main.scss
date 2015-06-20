@@ -31,6 +31,7 @@ header{
   padding-right:100px;
   padding-top:15px;
   padding-bottom:15px;
+  background-color:purple;
 }
 
 .left-header{
@@ -45,6 +46,10 @@ header{
 .vigilante-header{
   display:inline-block;
   font-size:28px;
+  a{
+    text-decoration:none;
+    color:silver;
+  }
 }
 
 .right-left-header{
@@ -54,17 +59,19 @@ header{
 .riverside{
   display:block;
   font-weight:bold;
+  color:silver;
 }
 
 .hdt{
   display:block;
+  color:silver;
 }
 
 .right-header{
   display:inline-block;
   float:right;
   a {
-    color:black;
+    color:silver;
     text-decoration:none;
   }
 }
@@ -94,7 +101,7 @@ header{
 .title-contents{
   padding-left:100px;
   padding-right:100px;
-  background-color:rgba(128, 128, 128, .3);
+  background-color:rgba(128, 128, 128, .7);
 }
 
 .go-back{
@@ -122,7 +129,7 @@ header{
   list-style:none;
   padding-bottom:40px;
   color:white;
-}
+  }
 
 .restaurant-name{
   font-size:24px;
@@ -163,6 +170,7 @@ header{
   display:inline-block;
   padding:10px;
   border-left: 1px solid gray;
+  background-color:green;
   /* border:1px solid gray; */
 }
 
@@ -199,6 +207,8 @@ header{
 
 .main-container{
   @include span-columns(12);
+  padding-bottom:40px;
+  border-bottom:1px solid gray;
 }
 
 .menu-items{
@@ -207,18 +217,18 @@ header{
 }
 
 .heroes{
-  padding:10px;
+  padding:15px;
   border:1px solid green;
   list-style:none;
   font-size:20px;
-  margin-top:20px;
+  margin-top:25px;
   color:gray;
 }
 
 .order-bar{
   @include span-columns(4);
   border:1px solid black;
-  margin-top:20px;
+  margin-top:25px;
   background-color:white;
 }
 
@@ -255,8 +265,9 @@ h5{
 }
 
 footer{
-  padding-left:100px;
-  padding-right:100px;
+  margin-left:100px;
+  margin-right:100px;
+  margin-bottom:70px;
 }
 
 .home-footer,
@@ -270,4 +281,9 @@ footer{
   padding-right:10px;
   display:inline-block;
   font-size:12px;
+  padding-top:20px;
+  a{
+    color:gray;
+    text-decoration:none;
+  }
 }

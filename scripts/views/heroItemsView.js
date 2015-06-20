@@ -27,9 +27,5 @@ renderChildren: function() {
       return this;
     }
 
-}
-
-
-
 
 });
