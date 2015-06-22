@@ -4,7 +4,7 @@
     "number":"1",
     "name":"Batman",
     "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "price":"$40.00",
+    "price":"4500",
     "category":"Imminent Danger"
   },
 
@@ -13,7 +13,7 @@
       "number":"2",
       "name":"Superman",
       "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "price":"$40.00",
+      "price":"5000",
       "category":"It's Too Late"
     },
 
@@ -22,7 +22,7 @@
     "number":"3",
     "name":"Wonder Women",
     "description":"",
-    "price":"$40.00",
+    "price":"3000",
     "category":"Pale From Fear"
   },
 
@@ -31,7 +31,7 @@
     "number":"4",
     "name":"Flash",
     "description":"",
-    "price":"$40.00",
+    "price":"2300",
     "category":"Enforcers"
   },
 
@@ -40,7 +40,7 @@
     "number":"5",
     "name":"Green Lantern",
     "description":"",
-    "price":"$40.00",
+    "price":"1900",
     "category":"My Ex Is Crazy"
   },
 
@@ -49,7 +49,7 @@
     "number":"6",
     "name":"Aquaman",
     "description":"",
-    "price":"$40.00",
+    "price":"700",
     "category":"Somewhat Deals"
   },
 
@@ -58,7 +58,7 @@
     "number":"7",
     "name":"Green Arrow",
     "description":"",
-    "price":"",
+    "price":"1400",
     "category":"I'm Being Bullied"
   },
 
@@ -67,7 +67,7 @@
     "number":"8",
     "name":"Sider-Man",
     "description":"",
-    "price":"",
+    "price":"2200",
     "category":"That Alley Looks Dark"
   },
 
@@ -76,7 +76,7 @@
     "number":"9",
     "name":"Ant-Man",
     "description":"",
-    "price":"",
+    "price":"1200",
     "category":"I'm Being Bullied"
   },
 
@@ -85,7 +85,7 @@
     "number":"10",
     "name":"Daredevil",
     "description":"",
-    "price":"",
+    "price":"1800",
     "category":"That Alley Looks Dark"
   },
 
@@ -94,7 +94,7 @@
     "number":"11",
     "name":"Iron Fist",
     "description":"",
-    "price":"",
+    "price":"2400",
     "category":"Enforcers"
   },
 
@@ -103,7 +103,7 @@
     "number":"12",
     "name":"Black Bolt",
     "description":"",
-    "price":"",
+    "price":"2700",
     "category":"Pale From Fear"
   },
 
@@ -112,7 +112,7 @@
     "number":"13",
     "name":"Doctor Strange",
     "description":"",
-    "price":"",
+    "price":"4200",
     "category":"Life Threatening"
   },
 
@@ -121,7 +121,7 @@
     "number":"14",
     "name":"Vision",
     "description":"",
-    "price":"",
+    "price":"2500",
     "category":"Trouble's Brewing"
   },
 
@@ -130,7 +130,7 @@
     "number":"15",
     "name":"Scarlet Witch",
     "description":"",
-    "price":"",
+    "price":"1600",
     "category":"Trouble's Brewing"
   },
 
@@ -139,7 +139,7 @@
     "number":"16",
     "name":"Black Panther",
     "description":"",
-    "price":"",
+    "price":"3500",
     "category":"Life Threatening"
   },
 
@@ -148,7 +148,7 @@
     "number":"17",
     "name":"Captain Marvel",
     "description":"",
-    "price":"",
+    "price":"3700",
     "category":"Life Threatening"
   },
 
@@ -157,7 +157,7 @@
     "number":"18",
     "name":"The Punisher",
     "description":"",
-    "price":"",
+    "price":"2000",
     "category":"Enforcers"
   },
 
@@ -166,7 +166,7 @@
     "number":"19",
     "name":"Star-Lord",
     "description":"",
-    "price":"",
+    "price":"2000",
     "category":"Enforcers"
   },
 
@@ -175,7 +175,7 @@
     "number":"20",
     "name":"Gamora",
     "description":"",
-    "price":"",
+    "price":"3500",
     "category":"Imminent Danger"
   },
 
@@ -184,7 +184,7 @@
     "number":"21",
     "name":"Drax the Destroyer",
     "description":"",
-    "price":"",
+    "price":"2500",
     "category":"Pale From Fear"
   },
 
@@ -193,7 +193,7 @@
     "number":"22",
     "name":"Groot",
     "description":"",
-    "price":"",
+    "price":"1400",
     "category":"I'm Being Bullied"
   },
 
@@ -202,7 +202,7 @@
     "number":"23",
     "name":"Rocket",
     "description":"",
-    "price":"",
+    "price":"700",
     "category":"Somewhat Deals"
   },
 
@@ -211,7 +211,7 @@
     "number":"24",
     "name":"Powerpuff Girls",
     "description":"",
-    "price":"",
+    "price":"4000",
     "category":"Potent Posses"
   },
 
@@ -220,7 +220,7 @@
     "number":"25",
     "name":"Captain America",
     "description":"",
-    "price":"",
+    "price":"4500",
     "category":"Imminent Danger"
   },
 
@@ -229,7 +229,7 @@
     "number":"26",
     "name":"Iron Man",
     "description":"",
-    "price":"",
+    "price":"5500",
     "category":"Imminent Danger"
   },
 
@@ -238,7 +238,7 @@
     "number":"27",
     "name":"Black Widow",
     "description":"",
-    "price":"",
+    "price":"1900",
     "category":"Trouble's Brewing"
   },
 
@@ -247,7 +247,7 @@
     "number":"28",
     "name":"Hulk",
     "description":"",
-    "price":"",
+    "price":"3100",
     "category":"Pale From Fear"
   },
 
@@ -256,7 +256,7 @@
     "number":"30",
     "name":"Thor",
     "description":"",
-    "price":"",
+    "price":"4500",
     "category":"It's Too Late"
   },
 
@@ -265,7 +265,7 @@
     "number":"31",
     "name":"Hawkeye",
     "description":"",
-    "price":"",
+    "price":"2200",
     "category":"That Alley Looks Dark"
   },
 
@@ -274,7 +274,7 @@
     "number":"32",
     "name":"Fantastic Four",
     "description":"",
-    "price":"",
+    "price":"5500",
     "category":"Potent Posses"
   },
 
@@ -283,7 +283,7 @@
     "number":"33",
     "name":"Wolverine",
     "description":"",
-    "price":"",
+    "price":"3300",
     "category":"Pale From Fear"
   },
 
@@ -292,7 +292,7 @@
     "number":"34",
     "name":"Beast",
     "description":"",
-    "price":"",
+    "price":"2600",
     "category":"Pale From Fear"
   },
 
@@ -301,7 +301,7 @@
     "number":"35",
     "name":"Colossus",
     "description":"",
-    "price":"",
+    "price":"1900",
     "category":"Enforcers"
   },
 
@@ -310,7 +310,7 @@
     "number":"36",
     "name":"Cyclops",
     "description":"",
-    "price":"",
+    "price":"2700",
     "category":"Enforcers"
   },
 
@@ -319,7 +319,7 @@
     "number":"37",
     "name":"Gambit",
     "description":"",
-    "price":"",
+    "price":"1800",
     "category":"I'm Being Bullied"
   },
 
@@ -328,7 +328,7 @@
     "number":"38",
     "name":"Jean Grey",
     "description":"",
-    "price":"",
+    "price":"4500",
     "category":"It's Too Late"
   },
 
@@ -337,7 +337,7 @@
     "number":"39",
     "name":"Nightcrawler",
     "description":"",
-    "price":"",
+    "price":"1500",
     "category":"I'm Being Bullied"
   },
 
@@ -346,7 +346,7 @@
     "number":"40",
     "name":"Rogue",
     "description":"",
-    "price":"",
+    "price":"3000",
     "category":"Life Threatening"
   },
 
@@ -355,7 +355,7 @@
     "number":"41",
     "name":"Storm",
     "description":"",
-    "price":"",
+    "price":"3500",
     "category":"Imminent Danger"
   },
 
@@ -364,7 +364,7 @@
     "number":"42",
     "name":"Nite Owl II",
     "description":"",
-    "price":"",
+    "price":"800",
     "category":"Somewhat Deals"
   },
 
@@ -373,7 +373,7 @@
     "number":"43",
     "name":"Silver Spectre II",
     "description":"",
-    "price":"",
+    "price":"1200",
     "category":"My Ex Is Crazy"
   },
 
@@ -382,7 +382,7 @@
     "number":"44",
     "name":"The Comedian",
     "description":"",
-    "price":"",
+    "price":"1500",
     "category":"I'm Being Bullied"
   },
 
@@ -391,7 +391,7 @@
     "number":"45",
     "name":"Rorschach",
     "description":"",
-    "price":"",
+    "price":"1500",
     "category":"That Alley Looks Dark"
   },
 
@@ -400,7 +400,7 @@
     "number":"46",
     "name":"Ozymandias",
     "description":"",
-    "price":"",
+    "price":"1700",
     "category":"Trouble's Brewing"
   },
 
@@ -409,7 +409,7 @@
     "number":"47",
     "name":"Dr. Manhattan",
     "description":"",
-    "price":"",
+    "price":"6000",
     "category":"It's Too Late"
   },
 
@@ -418,7 +418,7 @@
     "number":"48",
     "name":"Professor Dumbledore",
     "description":"",
-    "price":"",
+    "price":"5000",
     "category":"It's Too Late"
   },
 
@@ -427,7 +427,7 @@
     "number":"49",
     "name":"Harry Potter",
     "description":"",
-    "price":"",
+    "price":"2300",
     "category":"Trouble's Brewing"
   },
 
@@ -436,7 +436,7 @@
     "number":"50",
     "name":"Edward Cullen",
     "description":"",
-    "price":"",
+    "price":"2700",
     "category":"That Alley Looks Dark"
   },
 
@@ -445,7 +445,7 @@
     "number":"51",
     "name":"Jacob Black",
     "description":"",
-    "price":"",
+    "price":"1800",
     "category":"My Ex Is Crazy"
   },
 
@@ -454,7 +454,7 @@
     "number":"52",
     "name":"Merlin",
     "description":"",
-    "price":"",
+    "price":"2400",
     "category":"Trouble's Brewing"
   },
 
@@ -463,7 +463,7 @@
     "number":"53",
     "name":"Van Helsing",
     "description":"",
-    "price":"",
+    "price":"1600",
     "category":"That Alley Looks Dark"
   },
 
@@ -472,7 +472,7 @@
     "number":"54",
     "name":"John Snow",
     "description":"",
-    "price":"",
+    "price":"2100",
     "category":"Enforcers"
   },
 
@@ -481,7 +481,7 @@
     "number":"55",
     "name":"Luke Skywalker",
     "description":"",
-    "price":"",
+    "price":"2000",
     "category":"Trouble's Brewing"
   },
 
@@ -490,7 +490,7 @@
     "number":"56",
     "name":"Power Rangers",
     "description":"",
-    "price":"",
+    "price":"4500",
     "category":"Potent Posses"
   },
 
@@ -499,7 +499,7 @@
     "number":"57",
     "name":"Hellboy",
     "description":"",
-    "price":"",
+    "price":"2400",
     "category":"Enforcers"
   },
 
@@ -508,7 +508,7 @@
     "number":"58",
     "name":"Hit-Girl",
     "description":"",
-    "price":"",
+    "price":"2500",
     "category":"That Alley Looks Dark"
   },
 
@@ -517,7 +517,7 @@
     "number":"59",
     "name":"Kick-Ass",
     "description":"",
-    "price":"",
+    "price":"1300",
     "category":"I'm Being Bullied"
   },
 
@@ -526,7 +526,7 @@
     "number":"60",
     "name":"Scott Pilgrim",
     "description":"",
-    "price":"",
+    "price":"1100",
     "category":"My Ex Is Crazy"
   },
 
@@ -535,7 +535,7 @@
     "number":"61",
     "name":"Teenage Mutant Ninja Turtles",
     "description":"",
-    "price":"",
+    "price":"5000",
     "category":"Potent Posses"
   },
 
@@ -544,7 +544,7 @@
     "number":"62",
     "name":"Chuck Norris",
     "description":"",
-    "price":"",
+    "price":"1400",
     "category":"I'm Being Bullied"
   },
 
@@ -553,7 +553,7 @@
     "number":"63",
     "name":"James Bond",
     "description":"",
-    "price":"",
+    "price":"1400",
     "category":"Trouble's Brewing"
   },
 
@@ -561,8 +561,8 @@
     "id":"64",
     "number":"64",
     "name":"Austin Powers",
-    "description":"Rambo",
-    "price":"",
+    "description":"",
+    "price":"600",
     "category":"Somewhat Deals"
   },
 
@@ -571,7 +571,7 @@
     "number":"65",
     "name":"Ron Weasley",
     "description":"",
-    "price":"",
+    "price":"500",
     "category":"Somewhat Deals"
   },
 
@@ -580,7 +580,7 @@
     "number":"66",
     "name":"Robin",
     "description":"",
-    "price":"",
+    "price":"500",
     "category":"Somewhat Deals"
   },
 
@@ -589,7 +589,7 @@
     "number":"67",
     "name":"Rambo",
     "description":"",
-    "price":"",
+    "price":"2100",
     "category":"Life Threatening"
   }
 

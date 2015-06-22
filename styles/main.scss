@@ -254,36 +254,25 @@ header{
   border-bottom:1px solid gray;
 }
 
-.item-subtotal-table{
+.order-table{
   @include outer-container();
-  margin-left:20px;
+  padding-left:20px;
   margin-top:20px;
   border-bottom:1px solid gray;
 }
 
-.table-row{
+.item-subtotal-table{
   @include span-columns(4);
 }
 
- .item{
-  @include span-columns(2 of 4);
+ .left-table{
+  @include span-columns(2);
   text-align:left;
   padding-bottom:10px;
-  border-bottom:1px solid gray;
 }
 
-.price{
-  @include span-columns(2 of 4);
-}
-
-.subtotal{
-  text-align:left;
-  padding-top:10px;
-
-}
-
-.money{
-
+.right-table{
+  @include span-columns(2);
 }
 
 .delivery-pickup{
