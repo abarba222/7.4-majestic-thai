@@ -8,15 +8,16 @@ import HeroMenuView from './views/heroMenuView';
   'use strict';
 
   $(document).ready(function(){
-    Backbone.history.start();
+    // Backbone.history.start();
 
-    $("#app").html(JST)
+    // $("#app").html(JST);
 
     var AllHeroes = new HeroCollection();
 
     AllHeroes.fetch().then (function() {
       console.log(AllHeroes);
       var heroMenuView = new HeroMenuView({collection: AllHeroes});
+      $('.main-container').prepend(heroMenuView.el);
       console.log(heroMenuView);
     });
 

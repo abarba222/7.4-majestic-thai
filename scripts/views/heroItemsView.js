@@ -6,7 +6,7 @@ events: {
   'click .hero-price': 'showItem'
 },
 
-initialize: function() {
+initialize: function(options) {
   this.order = options.order;
   this.render();
 },
@@ -22,5 +22,5 @@ showItem: function() {
 });
 
 Handlebars.registerHelper('price', function(price) {
-  return price.toFixed(2);
+  return (Number(price) / 100).toFixed(2);
 });
