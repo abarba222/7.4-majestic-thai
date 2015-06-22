@@ -28,7 +28,7 @@ renderChildren: function(){
       var view = new heroItemView({
         model: child
       });
-      this.$('.hero-item-collection').append(view.el);
+      this.$('.hero-item-link').append(view.el);
       return view;
     }.bind(this));
 

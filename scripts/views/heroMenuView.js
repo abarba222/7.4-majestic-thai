@@ -2,7 +2,8 @@ import HeroListView from "./heroListView";
 
 export default Backbone.View.extend({
 
-  tagName: "category-title",
+  template: JST.heroes,
+  tagName: "h2",
   className: "category",
 
   initialize: function() {

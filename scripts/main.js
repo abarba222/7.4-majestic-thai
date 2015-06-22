@@ -8,6 +8,7 @@ import HeroMenuView from './views/heroMenuView';
   'use strict';
 
   $(document).ready(function(){
+    Backbone.history.start();
 
     $("#app").html(JST)
 
@@ -21,7 +22,7 @@ import HeroMenuView from './views/heroMenuView';
 
     //
       var heroView = new HeroView();
-    //   
+    //
     //   console.log(heroView);
     // }, console.error.bind(console));
 
