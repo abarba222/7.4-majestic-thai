@@ -7,7 +7,7 @@ var List = Backbone.Model.extend({
 
 var ListCollection = Backbone.Collection.extend({
   model: Hero,
-  url:
+  url
 });
 
 export default {ListCollection};

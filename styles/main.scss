@@ -232,22 +232,58 @@ header{
   background-color:white;
 }
 
-h5{
-  font-size:16px;
+.your-order-text{
+  font-size:20px;
   color:gray;
-  padding:0px;
+  padding:7px;
 }
 
 .your-order{
   text-align:center;
+  padding:15px;
+  border-bottom:1px solid gray;
+  a{
+    text-decoration:none;
+  }
 }
 
 .company-name{
   text-align:center;
+  color:green;
+  margin-top:10px;
+  border-bottom:1px solid gray;
 }
 
-.item-price{
-  text-align:right;
+.item-subtotal-table{
+  @include outer-container();
+  margin-left:20px;
+  margin-top:20px;
+  border-bottom:1px solid gray;
+}
+
+.table-row{
+  @include span-columns(4);
+}
+
+ .item{
+  @include span-columns(2 of 4);
+  text-align:left;
+  padding-bottom:10px;
+  border-bottom:1px solid gray;
+}
+
+.price{
+  @include span-columns(2 of 4);
+}
+
+.subtotal{
+  text-align:left;
+  padding-top:10px;
+
+}
+
+.money{
+
 }
 
 .delivery-pickup{

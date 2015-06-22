@@ -1,12 +1,17 @@
 export default Backbone.View.extend({
   template: JST.hero,
+  className: 'hero-item-link',
+
+events: {
+  'click .hero-price': 'showItem'
+},
 
 initialize: function() {
   this.render();
 },
 
 render: function() {
-
+  $(".heroes").append(this.el);
 },
 
 renderChildren: function() {

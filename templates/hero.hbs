@@ -1,5 +1,7 @@
-{{#each this}}
-  <h2>{{name}}</h2>
-  <p class="hero-description">{{description}}</p>
-  <button class="hero-price">{{price}}</button>
-{{/each}}
+<a href="#items/{{id}}" class="hero-item-link">
+  <div class="hero-item-text">
+    <h3 class="hero-title">{{number}}. {{name}}</h3>
+    <p class="hero-description">{{description}}</p>
+  </div>
+    <button class="hero-price button-primary">${{price price}}</button>
+</a>

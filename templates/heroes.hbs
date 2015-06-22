@@ -1,13 +1,6 @@
-  {{!-- <li class="heroes">Most Popular</li>
-  <li class="heroes">Life Threatening</li>
-  <li class="heroes">Red Alert</li>
-  <li class="heroes">Being Bullied</li>
-  <li class="heroes">State of Emergency</li>
-  <li class="heroes">Calling for Back-up</li>
-  <li class="heroes">Risky Business</li>
-  <li class="heroes">Miscellaneous</li>
-  <li class="heroes">I Need a Unit</li>
-  <li class="heroes">Things Could Get Dicey</li>
-  <li class="heroes">Taylor Swift Trouble</li>
-  <li class="heroes">Value Deals</li> --}}
-{{category}}
+<h2 class="hero-list-title">
+  {{category}}<i class="hero-dropdown fa fa-sort-desc"></i>
+</h2>
+{{#unless isHidden}}
+  <div class="hero-item-container"></div>
+{{/unless}}
