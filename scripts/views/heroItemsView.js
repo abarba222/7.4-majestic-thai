@@ -7,30 +7,20 @@ events: {
 },
 
 initialize: function() {
+  this.order = options.order;
   this.render();
 },
 
 render: function() {
-  $(".heroes").append(this.el);
+  this.$el.html(this.template(this.model.toJSON()));
 },
 
-renderChildren: function() {
-  _.invoke(this.children || [], 'remove');
+showItem: function() {
+  var clickedItem = this.model.toJSON;
+}
 
-      //Iterate over filtered collection object and create child CategoryViews.  Index argument is category title.
+});
 
-      this.children =  _.each(this.collection, function(child, index) {
-        var view = new heroItemView({
-          order: this.order,
-          collection: this.collection[index],
-          category: index
-        });
-        this.$el.append(view.el);
-        return view;
-      }.bind(this));
-
-      return this;
-    }
-
-
+Handlebars.registerHelper('price', function(price) {
+  return price.toFixed(2);
 });

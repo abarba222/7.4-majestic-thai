@@ -1,9 +1,8 @@
-import heroItemView from './views/heroItemsView';
+import heroItemView from './heroItemsView';
 
 export default Backbone.View.extend({
   template: JST.heroes,
-  tagName: "li",
-  className: "heroes",
+  className: "hero-list-title",
 
 initialize: function(options) {
   console.log(options);
@@ -11,7 +10,7 @@ initialize: function(options) {
   this.viewModel = options.viewModel;
   this.category = options.category;
   this.render();
-  this.listenTo(this.collection, 'update', this.render());
+  this.listenTo(this.viewModel, 'change:isHidden', this.render());
 },
 
 render: function() {

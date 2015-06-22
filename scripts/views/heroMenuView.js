@@ -2,8 +2,8 @@ import HeroListView from "./heroListView";
 
 export default Backbone.View.extend({
 
-  tagName: "ul",
-  className: "hero-items",
+  tagName: "category-title",
+  className: "category",
 
   initialize: function() {
     this.render();
