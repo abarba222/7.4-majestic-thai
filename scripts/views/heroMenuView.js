@@ -25,12 +25,15 @@ export default Backbone.View.extend({
 
     _.invoke(this.children || [], 'remove');
 
+    this.children = [];
+
     _.each(this.collection.groupBy('category'), function (group, category) {
       console.log("Hawkeye");
       var heroCollection = new Backbone.Collection(group);
         // heroCollection.add(group);
       var heroListView = new HeroListView({collection: heroCollection, category: category});
       this.$el.append(heroListView.el);
+      this.children.push(heroListView);
       console.log(heroListView);
     }.bind(this));
   },

@@ -3,7 +3,7 @@
     "id":"1",
     "number":"1",
     "name":"Batman",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description":"Flash the Bat Signal!... or just call JUSTice For Me. When confronted by gangsters or house invaders, call the Caped Crusader to be your savior.",
     "price":"4500",
     "category":"Imminent Danger"
   },
@@ -211,7 +211,7 @@
     "number":"24",
     "name":"Powerpuff Girls",
     "description":"",
-    "price":"4000",
+    "price":"3000",
     "category":"Potent Posses"
   },
 
@@ -274,7 +274,7 @@
     "number":"32",
     "name":"Fantastic Four",
     "description":"",
-    "price":"5500",
+    "price":"4800",
     "category":"Potent Posses"
   },
 
@@ -418,7 +418,7 @@
     "number":"48",
     "name":"Professor Dumbledore",
     "description":"",
-    "price":"5000",
+    "price":"4300",
     "category":"It's Too Late"
   },
 
@@ -436,7 +436,7 @@
     "number":"50",
     "name":"Edward Cullen",
     "description":"",
-    "price":"2700",
+    "price":"2100",
     "category":"That Alley Looks Dark"
   },
 
@@ -490,7 +490,7 @@
     "number":"56",
     "name":"Power Rangers",
     "description":"",
-    "price":"4500",
+    "price":"4000",
     "category":"Potent Posses"
   },
 
@@ -535,7 +535,7 @@
     "number":"61",
     "name":"Teenage Mutant Ninja Turtles",
     "description":"",
-    "price":"5000",
+    "price":"4400",
     "category":"Potent Posses"
   },
 

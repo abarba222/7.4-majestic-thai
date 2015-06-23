@@ -216,14 +216,44 @@ header{
   padding:0px;
 }
 
-.heroes{
+.hero-list-title{
   padding:15px;
   border:1px solid green;
   list-style:none;
   font-size:20px;
   margin-top:25px;
-  color:gray;
+  color:green;
 }
+
+.hero-item-link{
+  border:1px solid gray;
+  padding:15px;
+  background-color:silver;
+}
+
+.hero-item-link:hover{
+  background-color:white;
+}
+
+.hero-item-text{
+  display:inline-block;
+}
+
+.hero-title{
+  color:black;
+}
+
+.hero-description{
+  color:black;
+}
+
+.hero-price{
+  display:inline-block;
+  color:green;
+  background-color:black;
+}
+
+
 
 .order-bar{
   @include span-columns(4);
