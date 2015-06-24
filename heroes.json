@@ -4,7 +4,7 @@
     "number":"1",
     "name":"Batman",
     "description":"Flash the Bat Signal!... or just call JUSTice For Me. When confronted by gangsters or house invaders, call the Caped Crusader to be your savior.",
-    "price":"4500",
+    "price":"4300",
     "category":"Imminent Danger"
   },
 
@@ -48,7 +48,7 @@
     "id":"6",
     "number":"6",
     "name":"Aquaman",
-    "description":"",
+    "description":"Useful if you're stranded in the ocean...",
     "price":"700",
     "category":"Somewhat Deals"
   },
@@ -65,7 +65,7 @@
   {
     "id":"8",
     "number":"8",
-    "name":"Sider-Man",
+    "name":"Spider-Man",
     "description":"",
     "price":"2200",
     "category":"That Alley Looks Dark"
@@ -112,7 +112,7 @@
     "number":"13",
     "name":"Doctor Strange",
     "description":"",
-    "price":"4200",
+    "price":"4100",
     "category":"Life Threatening"
   },
 
@@ -148,7 +148,7 @@
     "number":"17",
     "name":"Captain Marvel",
     "description":"",
-    "price":"3700",
+    "price":"3400",
     "category":"Life Threatening"
   },
 
@@ -174,7 +174,7 @@
     "id":"20",
     "number":"20",
     "name":"Gamora",
-    "description":"",
+    "description":"She was willing to betray Ronan, no doubt she can handle your earthling foe.",
     "price":"3500",
     "category":"Imminent Danger"
   },
@@ -183,7 +183,7 @@
     "id":"21",
     "number":"21",
     "name":"Drax the Destroyer",
-    "description":"",
+    "description":"Nothing will go over Drax's head... for his reflexs are too fast, and he will catch it.",
     "price":"2500",
     "category":"Pale From Fear"
   },
@@ -192,8 +192,8 @@
     "id":"22",
     "number":"22",
     "name":"Groot",
-    "description":"",
-    "price":"1400",
+    "description":"I am Groot ('Don't worry I'll protect you').",
+    "price":"1900",
     "category":"I'm Being Bullied"
   },
 
@@ -220,7 +220,7 @@
     "number":"25",
     "name":"Captain America",
     "description":"",
-    "price":"4500",
+    "price":"3700",
     "category":"Imminent Danger"
   },
 
@@ -229,7 +229,7 @@
     "number":"26",
     "name":"Iron Man",
     "description":"",
-    "price":"5500",
+    "price":"4800",
     "category":"Imminent Danger"
   },
 
@@ -264,7 +264,7 @@
     "id":"31",
     "number":"31",
     "name":"Hawkeye",
-    "description":"",
+    "description":"The odds you'll be safe with Hawkeye around are much more than just a shot in the dark.",
     "price":"2200",
     "category":"That Alley Looks Dark"
   },
@@ -282,7 +282,7 @@
     "id":"33",
     "number":"33",
     "name":"Wolverine",
-    "description":"",
+    "description":"Your attacker better wish they are stronger than Attimantium otherwise this fight will be over quickly.",
     "price":"3300",
     "category":"Pale From Fear"
   },
@@ -328,7 +328,7 @@
     "number":"38",
     "name":"Jean Grey",
     "description":"",
-    "price":"4500",
+    "price":"3900",
     "category":"It's Too Late"
   },
 
@@ -381,7 +381,7 @@
     "id":"44",
     "number":"44",
     "name":"The Comedian",
-    "description":"",
+    "description":"This is no laughing matter, your bully will wish he didn't figure you a joke.",
     "price":"1500",
     "category":"I'm Being Bullied"
   },
@@ -399,7 +399,7 @@
     "id":"46",
     "number":"46",
     "name":"Ozymandias",
-    "description":"",
+    "description":"The smartest man in the world will surely think up how to keep you out of harms way.",
     "price":"1700",
     "category":"Trouble's Brewing"
   },
@@ -426,7 +426,7 @@
     "id":"49",
     "number":"49",
     "name":"Harry Potter",
-    "description":"",
+    "description":"Call on the Chosen One to lead you out of danger when trouble is brewing.",
     "price":"2300",
     "category":"Trouble's Brewing"
   },
@@ -471,7 +471,7 @@
     "id":"54",
     "number":"54",
     "name":"John Snow",
-    "description":"",
+    "description":"Winter is coming... and so is Jon Snow if you're in trouble.",
     "price":"2100",
     "category":"Enforcers"
   },
@@ -480,7 +480,7 @@
     "id":"55",
     "number":"55",
     "name":"Luke Skywalker",
-    "description":"",
+    "description":"He'll force you to safety before you can say, 'is that a glow stick?'",
     "price":"2000",
     "category":"Trouble's Brewing"
   },
@@ -507,7 +507,7 @@
     "id":"58",
     "number":"58",
     "name":"Hit-Girl",
-    "description":"",
+    "description":"Odds are you'll end up pretty bloodied if you call Hit-Girl. At least it won't be your blood.",
     "price":"2500",
     "category":"That Alley Looks Dark"
   },
@@ -516,7 +516,7 @@
     "id":"59",
     "number":"59",
     "name":"Kick-Ass",
-    "description":"",
+    "description":"The perfect solution if you want your bully to get the point and feel slightly uncomfortable.",
     "price":"1300",
     "category":"I'm Being Bullied"
   },
@@ -525,7 +525,7 @@
     "id":"60",
     "number":"60",
     "name":"Scott Pilgrim",
-    "description":"",
+    "description":"There's no better man to turn to when trying to find a way to deal with a crazy ex.",
     "price":"1100",
     "category":"My Ex Is Crazy"
   },
@@ -552,7 +552,7 @@
     "id":"63",
     "number":"63",
     "name":"James Bond",
-    "description":"",
+    "description":"Regardless of whether he seduces your attacker or kills them, he'll get the job done.",
     "price":"1400",
     "category":"Trouble's Brewing"
   },
@@ -561,7 +561,7 @@
     "id":"64",
     "number":"64",
     "name":"Austin Powers",
-    "description":"",
+    "description":"For when James Bond is busy or your budget is tight.",
     "price":"600",
     "category":"Somewhat Deals"
   },
@@ -570,7 +570,7 @@
     "id":"65",
     "number":"65",
     "name":"Ron Weasley",
-    "description":"",
+    "description":"His magic works sometimes... that's good enough right?",
     "price":"500",
     "category":"Somewhat Deals"
   },
@@ -579,7 +579,7 @@
     "id":"66",
     "number":"66",
     "name":"Robin",
-    "description":"",
+    "description":"Just hope the Boy Wonder doesn't leave you wondering why you called him.",
     "price":"500",
     "category":"Somewhat Deals"
   },
@@ -588,7 +588,7 @@
     "id":"67",
     "number":"67",
     "name":"Rambo",
-    "description":"",
+    "description":"It doesn't matter that you can't understand him, the dude's a one man army!",
     "price":"2100",
     "category":"Life Threatening"
   }
