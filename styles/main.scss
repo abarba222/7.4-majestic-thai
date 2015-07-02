@@ -46,6 +46,8 @@ header{
 .vigilante-header{
   display:inline-block;
   font-size:28px;
+  border-right:1px solid silver;
+  padding-right:10px;
   a{
     text-decoration:none;
     color:silver;
@@ -54,7 +56,8 @@ header{
 
 .right-left-header{
   display:inline-block;
-}
+  padding-left:5px;
+  }
 
 .riverside{
   display:block;
@@ -193,7 +196,6 @@ header{
 }
 
 .search-menu-bar{
-  border-bottom:2px solid green;
   height:50px;
   width:261px;
 }
@@ -218,7 +220,7 @@ header{
 
 .hero-list-title{
   padding:15px;
-  border:1px solid green;
+  border:2px solid green;
   list-style:none;
   font-size:20px;
   margin-top:25px;
@@ -287,6 +289,8 @@ header{
   border-bottom:1px solid gray;
   a{
     text-decoration:none;
+    font-weight:bold;
+    color:purple;
   }
 }
 
@@ -298,24 +302,53 @@ header{
 }
 
 .order-table{
-  @include outer-container();
-  padding-left:20px;
-  margin-top:20px;
   border-bottom:1px solid gray;
 }
 
 .item-subtotal-table{
-  @include span-columns(4);
+  @include outer-container();
+  margin:20px;
+
 }
 
- .left-table{
-  @include span-columns(2 of 4);
+tbody{
+  @include span-columns(16);
+}
+
+ .top-row{
+  @include span-columns(8);
   text-align:left;
-  padding-bottom:10px;
+  padding-bottom:5px;
+  border-bottom:1px solid gray;
 }
 
-.right-table{
-  @include span-columns(2 of 4);
+.bottom-row{
+  @include span-columns(8);
+  text-align:center;
+  padding-top:10px;
+}
+
+.item,
+.subtotal{
+  font-weight:bold;
+}
+
+.price{
+  padding-left:140px;
+  font-weight:bold;
+}
+
+.money{
+  padding-left:110px;
+  font-weight:bold;
+}
+
+.order-total{
+  border-bottom:1px solid black;
+}
+
+.total-total{
+  padding-left:20px;
 }
 
 .delivery-pickup{
@@ -324,12 +357,13 @@ header{
 
 .delivery-icon-box{
   display:inline-block;
-  padding:5px;
+  padding:55px;
+  border-right:1px solid gray;
 }
 
 .pickup-icon-box{
   display:inline-block;
-  padding:5px;
+  padding:55px;
 }
 
 footer{

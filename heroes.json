@@ -201,7 +201,7 @@
     "id":"23",
     "number":"23",
     "name":"Rocket",
-    "description":"",
+    "description":"A valuable team member but needs an enforcer in most circumstances.",
     "price":"700",
     "category":"Somewhat Deals"
   },
@@ -229,7 +229,7 @@
     "number":"26",
     "name":"Iron Man",
     "description":"",
-    "price":"4800",
+    "price":"4600",
     "category":"Imminent Danger"
   },
 
@@ -363,7 +363,7 @@
     "id":"42",
     "number":"42",
     "name":"Nite Owl II",
-    "description":"",
+    "description":"Probably a useful allie but would you really feel safe with just him around?",
     "price":"800",
     "category":"Somewhat Deals"
   },
@@ -490,7 +490,7 @@
     "number":"56",
     "name":"Power Rangers",
     "description":"",
-    "price":"4000",
+    "price":"3500",
     "category":"Potent Posses"
   },
 
